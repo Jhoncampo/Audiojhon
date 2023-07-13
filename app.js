@@ -1,2 +1,3 @@
-let saludo = "Hola mundo";
-console.log(saludo);
+let elemento = document.links;
+
+console.log(elemento);
